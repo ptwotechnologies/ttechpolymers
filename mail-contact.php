@@ -1,6 +1,6 @@
 <?php
 
-	$to = "sumanth1659@gmail.com"; // Updated email address tapanr80@gmail.com
+	$to = "ttechpolymersmundka@gmail.com"; // Updated email address tapanr80@gmail.com
 	$from  = $_POST['email']; // sender's Email address
 	$sender_name = $_POST['name'];
 	$phone = $_POST['phone'];
